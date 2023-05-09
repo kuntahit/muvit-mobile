@@ -1,0 +1,13 @@
+{
+  "primary": "#0058BF",
+  "secondary": "#EFF3F6",
+  "black": "#2C3F56",
+  "background": "#fcfeff",
+  "tabBar": {
+    "text": {
+      "active": "#3f88ff",
+      "inactive": "#c3cee0"
+    },
+    "background": "#ffffff"
+  }
+}
